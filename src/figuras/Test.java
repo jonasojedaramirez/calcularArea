@@ -1,6 +1,6 @@
 package figuras;
 
-import utilidades.Circulo;
+import Utilidades.Circulo;
 
 public class Test {
     public static void main(String[] args) {
